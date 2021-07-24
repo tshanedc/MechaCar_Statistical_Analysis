@@ -24,10 +24,10 @@ Answer:
 
 
 
-### Figure 3
+### Figure 3 Total_summary
 ![total_summary](total_summary.png)
 
 
-### Figure 4
+### Figure 4 Lot_summary
 ![LOT_SUMMARY](LOT_SUMMARY.png)
 
